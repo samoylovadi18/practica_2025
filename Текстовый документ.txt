@@ -1,0 +1,4 @@
+npx create-react-app my-mui-app
+cd my-mui-app
+npm install @mui/material @emotion/react @emotion/styled
+npm start
